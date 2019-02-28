@@ -1,8 +1,8 @@
 # platform-gameCMP428-05.18
 
-One level platform game created for CMP 428 Class
+One level platform game written in Java for CMP 428 Class
 
-Scenography, screens, menus designed by me. 
+Scenography, screens, menus designed by me in Illustrator CC 
 Sprites by pzUH
 
 ![Main menu](https://i.imgur.com/ouieXhV.png)
